@@ -1,1 +1,45 @@
-
+body {
+    background-color: #9630fc;
+}
+.a1 {
+    background: #9630fc 120% 20%;
+    height: 50px;
+}
+.a2 {
+    background-color: #9630fc;
+    height: 350px;
+    color: lemonchiffon;
+    pointer-events: none;
+}
+.q1 {
+    background-color: #9630fc;
+    height: 100px;
+    color: peachpuff;
+    text-align: center;
+}
+.a3 {
+    height: 300px;
+    weight: 300px;
+    border: solid #9630fc 5px;
+    border-radius: 150px;
+}
+.a4 {
+    background-color: #9630fc;
+    color: peachpuff;
+    text-align: center;
+    font-size: 25px;
+}
+p {
+    text-align: center;
+}
+.a5 {
+    background-color: #9630fc;
+    color: peachpuff;
+    text-align: center;
+}
+.a6 {
+    height: 40px;
+    weight: 40px;
+    border: solid #9630fc 5px;
+    border-radius: 20px;
+}
